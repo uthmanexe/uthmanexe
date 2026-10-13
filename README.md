@@ -1,4 +1,7 @@
 ## Hi there 👋
+## I have no idea how to do this but...
+**Languages:**
+-Python
 
 <!--
 **uthmanexe/uthmanexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
